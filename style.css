@@ -10,6 +10,7 @@ html, body{
     background-size: contain;
     font-family: 'Red Hat Display';
     line-height: 1.5rem;
+   width: 100%;
 }
 
 .card-container{
